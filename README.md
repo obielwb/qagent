@@ -45,4 +45,5 @@ Como usar?
 ### _📖 Documentações Complementares:_
 
 •⁠ ⁠🔗 https://drive.google.com/file/d/1gzboXJCmx6lv_rKqBi8wvm27idXi__N0/view
+
 •⁠ ⁠🔗 https://blog.ploomes.com/comunicacao-efetiva/#:~:text=Em%20linhas%20gerais%2C%20podemos%20definir,que%20estão%20envolvidos%20nesta%20técnica
